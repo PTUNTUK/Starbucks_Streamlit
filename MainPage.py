@@ -128,12 +128,7 @@ def map_demo():
     st.plotly_chart(fig)
 
 page_names_to_funcs = {
-    #"my_intro": intro,
-    #"Plotting Demo": plotting_demo,
-    #"Mapping Demo": mapping_demo,
-    #"DataFrame Demo": data_frame_demo,
-    #"my_page2": intro2,
-    "Ownership" : ownership_demo,
+    "☕Ownership" : ownership_demo,
     "👑Top 10 Country" : top10_demo,
     "🌏Mapping" : map_demo
 }
